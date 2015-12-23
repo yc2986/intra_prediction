@@ -13,3 +13,6 @@ python run.py to run the encoding
 python compare.py to see the performance difference
 
 python toGrayscale.py to get the encoded image after encoding
+
+Website for this project:
+http://gpgpucolumbia2015pvco.weebly.com/result.html
